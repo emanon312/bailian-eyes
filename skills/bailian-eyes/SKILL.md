@@ -1,5 +1,5 @@
 ---
-name: delegating-vision-tasks
+name: bailian-eyes
 description: Use when the current model has no vision capability and images, screenshots, diagrams, photos, videos, or any visual content is part of the task — the user pasted an image, referenced a screenshot, or the task requires understanding what something looks like
 ---
 
